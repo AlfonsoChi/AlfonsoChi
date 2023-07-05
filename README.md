@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlfonsoChi
-- 👀 I’m interested in Web Programming
-- 🌱 I’m currently learning Web Standards
-- 💞️ I’m looking to collaborate on Web Templates
+- 👀 I’m focused on Game Design and Web Programming
+- 🌱 I’m currently working over Web Standards
+- 💞️ I’m looking to collaborate on Game Design
 - 📫 How to reach me: alfonsochina@gmail.com
 
 <!---
